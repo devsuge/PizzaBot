@@ -12,7 +12,6 @@ _TelegreamBot доставки пиццы_ — это бот, который м�
 	
 ```
 pip3 install -r requirements.txt
-./python3 manage.py migrate
 ```
 
 # Запуск_бота
